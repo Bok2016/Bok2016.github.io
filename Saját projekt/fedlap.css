@@ -1,5 +1,17 @@
-body{
-    background-color: black;
-    color: orange;
-    text-align: justify;
+h1, h2{
+    background-color: burlywood;
+    color: cornsilk;
+}
+
+h1{
+    text-align: center;
+}
+
+.fogalma{
+    text-align: end;
+    color: cadetblue;
+}
+
+#logo{
+    float: right;
 }
