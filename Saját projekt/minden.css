@@ -1,3 +1,7 @@
+body{
+    margin: 20px;
+}
+
 h1{
     background-color: burlywood;
     color: cornsilk;
@@ -10,6 +14,10 @@ h1{
 .fogalma{
     text-align: end;
     color: cadetblue;
+}
+
+p{
+    color: coral;
 }
 
 #logo{
