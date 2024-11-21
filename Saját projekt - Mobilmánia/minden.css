@@ -1,10 +1,12 @@
 body{
     margin: 20px;
+    background-color: silver;
 }
 
 h1, h2{
     background-color: burlywood;
     color: cornsilk;
+    text-decoration: underline;
 }
 
 h1{
@@ -13,7 +15,7 @@ h1{
 
 #fogalma{
     text-align: end;
-    color: cadetblue;
+    color: cornsilk;
 }
 
 #talalkozas{
@@ -22,10 +24,6 @@ h1{
 
 #logo{
     float: right;
-}
-
-#tortenet{
-    background-color: silver;
 }
 
 img{
