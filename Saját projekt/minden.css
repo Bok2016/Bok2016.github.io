@@ -2,7 +2,7 @@ body{
     margin: 20px;
 }
 
-h1{
+h1, h2{
     background-color: burlywood;
     color: cornsilk;
 }
@@ -16,7 +16,7 @@ h1{
     color: cadetblue;
 }
 
-p{
+.talalkozas{
     color: coral;
 }
 
