@@ -11,15 +11,23 @@ h1{
     text-align: center;
 }
 
-.fogalma{
+#fogalma{
     text-align: end;
     color: cadetblue;
 }
 
-.talalkozas{
+#talalkozas{
     color: coral;
 }
 
 #logo{
     float: right;
+}
+
+#tortenet{
+    background-color: silver;
+}
+
+img{
+    margin: 2px;
 }
