@@ -34,9 +34,9 @@ img{
     margin: 2px;
 }
 
-table{
+th, td{
     border-style: solid;
-    border: 5px;
+    border-width: 5px;
     border-color: black;
     color: white;
 }
