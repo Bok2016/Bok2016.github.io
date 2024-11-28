@@ -13,6 +13,10 @@ h1{
     text-align: center;
 }
 
+h3{
+    color: navajowhite;
+}
+
 #fogalma{
     text-align: end;
     color: cornsilk;
@@ -28,4 +32,11 @@ h1{
 
 img{
     margin: 2px;
+}
+
+table{
+    border-style: solid;
+    border: 5px;
+    border-color: black;
+    color: white;
 }
